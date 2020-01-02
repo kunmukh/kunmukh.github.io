@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kunal Mukherjee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Kunal Mukherjee"
 description              : &description "personal description"
 url                      : https://kunmukh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+# path                   : # blank (default) uses feed.xml
 
 # SEO Related
 #google_site_verification :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kunmukh"
   google_plus      :
   keybase          :
   instagram        :
