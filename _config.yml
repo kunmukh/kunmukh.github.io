@@ -86,7 +86,7 @@ author:
   location         : "Dallas, TX"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=DQRwW8gAAAAJ&hl=en"
   email            : "kunmukh at gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Kunal-Mukherjee-2"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kunmukh"
+  github           : "https://github.com/kunmukh"
   google_plus      :
   keybase          :
   instagram        :
